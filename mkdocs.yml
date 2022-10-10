@@ -28,8 +28,7 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
+  
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/dhritidhokaa?igshid=YmMyMTA2M2Y=
     - icon: fontawesome/brands/twitter
