@@ -31,13 +31,13 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://instagram.com/dhritidhokaa?igshid=YmMyMTA2M2Y=
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: https://www.linkedin.com/in/dhritidhoka399b72188
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: https://github.com/dhritidhoka/MDEF
 
 theme:
   name: material
