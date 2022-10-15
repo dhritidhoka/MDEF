@@ -4,11 +4,12 @@ hide:
 ---
 
 # Bootcamp
-My Fight
+##My Fight
 
 ![My Fight Poster](../images/Term1/poster%205%20copy.jpg)
 
-WHATS YOUR FIGHT?
+##WHATS YOUR FIGHT?
+
 My poster says " BE WHO YOU REALLY ARE", implementing to keep your true self while moving on with the modern world. Change is impending but losing your true value in the amidst is what my fight is towards.
 Focusing on my fight I have come to known that my fight is not a signle topic fight but many realting aspects also play an important role in affecting the change.
 Finding a balance between the traditional and modern in every direction we step towards while breaking away from the conditional expectations of the society. Moving away from the ordinary and exploring and experimenting with new possible alternatives that lead to a more fulfilling result.
