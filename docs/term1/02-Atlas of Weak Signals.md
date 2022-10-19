@@ -23,4 +23,4 @@ This combination of creating a solar energy generation kit and a digital platfor
 
 My idea is to provide them a source of energy and a digital platform to introduce themselves to the world but their specialty remains their own. Making it a very flexible workflow for them without interfering with their methods of producing yet making them globally accessible.
 
-Thus, making the rural communities have a future where they can mention themselves as **"LOCALLY PRODUCTIVE, GLOBALLY CONNECTED".**
+Thus, making the rural communities have a future where they can introduce themselves as **"LOCALLY PRODUCTIVE, GLOBALLY CONNECTED".**
