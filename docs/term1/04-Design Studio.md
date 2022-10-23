@@ -1,3 +1,5 @@
+# Design Studio
+
 ##PROTOTYPING
 Prototyping is the stage of design thinking and sprints that usually follows after ideation.  Prototyping not only presents a strong visualisation of the design to understand the look and feel of the final design but it also helps to comprehend better ways of designing. Prototype is about validating your concept, not small-scale details. This is helping in gathering valuable insights and move to the next phase. 
 
