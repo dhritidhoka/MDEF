@@ -5,7 +5,7 @@ Prototyping is the stage of design thinking and sprints that usually follows aft
 
 ##ROLES OF PROTOTYPING
 
-###Role 1: AS AN EXPERIMENTAL COMPONENT
+Role 1: AS AN EXPERIMENTAL COMPONENT
 The prototyping process where we use the object itself to experiment itself in trial-and-error method. I have used this method of prototyping as an experimental component in most of my undergrad projects. Using the experimental setup for my designs to asses the functionality and the stability of the design to the useability and dynamics of the design.
 
 ###Role 2: AS A MEANS OF ENQUIRY
