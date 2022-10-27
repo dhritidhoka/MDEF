@@ -1,9 +1,9 @@
 # Design Studio
 
-##PROTOTYPING
+###PROTOTYPING
 Prototyping is the stage of design thinking and sprints that usually follows after ideation.  Prototyping not only presents a strong visualisation of the design to understand the look and feel of the final design but it also helps to comprehend better ways of designing. Prototype is about validating your concept, not small-scale details. This is helping in gathering valuable insights and move to the next phase. 
 
-##ROLES OF PROTOTYPING
+###ROLES OF PROTOTYPING
 
 ROLE 1: AS AN EXPERIMENTAL COMPONENT
 
@@ -23,6 +23,6 @@ This method of prototyping where we use the prototype as a vehicle for enquiry i
 
 I have used the role1 and role3 the most during my undergrad course and since I have recently passed out and don’t have almost any work experience, I would to try and experiment with as many prototyping methods as I could. I believe all of the 4 mentioned above methods would have really different yet interesting approaches to my design idea.
 
-### MY WORKSPACE
+###MY WORKSPACE
 
 ![](../images/Term1/my%20workspace.jpg)
