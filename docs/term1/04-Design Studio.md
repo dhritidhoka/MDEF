@@ -22,3 +22,7 @@ ROLE 4: AS A VEHICLE FOR ENQUIRY
 This method of prototyping where we use the prototype as a vehicle for enquiry is a way of documenting and analysing the designs which is further used to develop the idea. I have never used this method of prototyping but using this method would give a new way of approaching my designs based on the research that goes on with it.
 
 I have used the role1 and role3 the most during my undergrad course and since I have recently passed out and don’t have almost any work experience, I would to try and experiment with as many prototyping methods as I could. I believe all of the 4 mentioned above methods would have really different yet interesting approaches to my design idea.
+
+### MY WORKSPACE
+
+[](../images/Term1/my%20workspace.jpg)
