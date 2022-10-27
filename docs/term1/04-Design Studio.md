@@ -25,4 +25,4 @@ I have used the role1 and role3 the most during my undergrad course and since I 
 
 ### MY WORKSPACE
 
-[](../images/Term1/my%20workspace.jpg)
+![](../images/Term1/my%20workspace.jpg)
