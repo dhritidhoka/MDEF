@@ -1,4 +1,4 @@
 ## Welcome!
 
-![](../images/perezoso.jpg)
+Just an insight into my MDEF journey!
 
