@@ -27,6 +27,6 @@ To check the alkaline value of nitrate, we used different waters from the differ
 
 ###NEWS ARTICLE
 
-[Article](https://https://www.newscientist.com/article/2344593-vaccines-that-prolong-the-immune-response-may-give-better-protection/)
+[Article](https://www.newscientist.com/article/2344593-vaccines-that-prolong-the-immune-response-may-give-better-protection/)
 
 
