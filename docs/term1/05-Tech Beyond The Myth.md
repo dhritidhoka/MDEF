@@ -24,7 +24,7 @@ The idea was to create a complex machine connected to a huge soap water bottle a
 To reach to this stage, there was a constant back and forth between ideating, exploring and creating. This exercise was a fun way of experimenting with different components and techniques.
 
 
-The link for the presentation –
+The link for the presentation – [The Void Bubble Maker](https://www.canva.com/design/DAFSOM00dx4/P8wOYOLx85J0YVh0gvs-Pw/view)
 
 The link for the video-
 
