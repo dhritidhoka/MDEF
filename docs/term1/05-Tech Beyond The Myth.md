@@ -7,7 +7,7 @@ After being divided into different groups and selecting an appliance per group, 
 Dismantling the coffee machine seemed really interesting – revealing the underlying technology – which is always hidden under and exploring and understanding the functionality of the internal components. This exercise created a new perspective for me of how these everyday objects are created- so complex on the exterior but so simple on the inside.  Figuring out the roles of every component, opened up with several ideas on how these parts could be reused or be given a new purpose completely. 
 
 
-![][timelapse video]
+![timelapse video](https://youtube.com/shorts/1q7BaObEUUc?feature=share)
 
 
 The link for the detailed forensic report for the drip coffee maker –
@@ -31,4 +31,3 @@ The link for the video-
 
 
 
-[def2]: ../videos/timelapse%20video.mp4
