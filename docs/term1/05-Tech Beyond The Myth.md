@@ -9,8 +9,11 @@ Dismantling the coffee machine seemed really interesting – revealing the under
 
 ![](../videos/timelapse%20video.mp4)
 
+C:\Users\dhrit\Documents\MDEF\docs\videos\timelapse video.mp4
+
 
 The link for the detailed forensic report for the drip coffee maker –
+
 [Forensic report- Drip Coffee Maker](https://hackmd.io/xQ9hjQftSiaee3XNQ7NcrQ?view)
 
 
@@ -26,5 +29,5 @@ To reach to this stage, there was a constant back and forth between ideating, ex
 
 The link for the presentation – [The Void Bubble Maker](https://www.canva.com/design/DAFSOM00dx4/P8wOYOLx85J0YVh0gvs-Pw/view)
 
-The link for the video-
+The link for the video- 
 
