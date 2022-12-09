@@ -6,7 +6,7 @@ After being divided into different groups and selecting an appliance per group, 
 
 Dismantling the coffee machine seemed really interesting – revealing the underlying technology – which is always hidden under and exploring and understanding the functionality of the internal components. This exercise created a new perspective for me of how these everyday objects are created- so complex on the exterior but so simple on the inside.  Figuring out the roles of every component, opened up with several ideas on how these parts could be reused or be given a new purpose completely. 
 
-
+ [Timelapse video of dismantling the coffee maker](../timelapse%20video.mp4)
 
 
 [Forensic report- Drip Coffee Maker](https://hackmd.io/xQ9hjQftSiaee3XNQ7NcrQ?view)
@@ -24,7 +24,7 @@ To reach to this stage, there was a constant back and forth between ideating, ex
 
 The link for the presentation – [The Void Bubble Maker](https://www.canva.com/design/DAFSOM00dx4/P8wOYOLx85J0YVh0gvs-Pw/view)
 
-The link for the video-  
+The link for the video-  https://youtube.com/shorts/1q7BaObEUUc?feature=share
 
 
 
