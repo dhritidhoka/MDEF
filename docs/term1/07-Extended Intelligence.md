@@ -11,3 +11,8 @@ With the viewing of multiple projects done by artists and Estampa and trying out
 For our AI Project, we were looking at an AI Listening Companion- that responds with empathy to the user’s emotions. It seemed like a very straightforward idea initially but as we got deeper into searching for appropriate datasets, I personally felt that there are multiple aspects that need attention and are interlinked to one another. Developing an AI can be very tricky and dangerous if not dealt with proper knowledge.  AI has its own advantages but also has limitations and we as designers should be able to distinguish them. 
 
 Our AI listening companion had multiple roles to play and to act appropriately as per the situation.  It was an interesting approach towards merging these roles and bringing them together as one final output. The presentation and the forensic report of our project is attached below.
+
+
+[AI Listening Companion](https://drive.google.com/file/d/1hmgMAFdTJb83h5k6HfzmErC4dMhwKXm3/view?usp=share_link)
+
+[Forensic Report of the AI Listening Companion](https://drive.google.com/file/d/1UowXKvIyGOCib9KSIEjOJfuRhiHre9xH/view?usp=share_link)
