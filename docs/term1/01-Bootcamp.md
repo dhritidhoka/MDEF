@@ -6,14 +6,20 @@ hide:
 # Bootcamp
 ##WHAT'S YOUR FIGHT?
 
-![My Fight Poster](../images/Term1/poster%205%20copy.jpg)
+![My Fight Poster](../images/Term1/fight%20poster.jpg)
 
 ###WHAT'S YOUR FIGHT?
 
-My poster says " BE WHO YOU REALLY ARE", implementing to keep your true self while moving on with the modern world. Change is impending but losing your true value in the amidst is what my fight is towards.
-Focusing on my fight I have come to known that my fight is not a signle topic fight but many realting aspects also play an important role in affecting the change.
-Finding a balance between the traditional and modern in every direction we step towards while breaking away from the conditional expectations of the society. Moving away from the ordinary and exploring and experimenting with new possible alternatives that lead to a more fulfilling result.
-With this I would like to make my fight as a multi-disciplinary and technology driven approach while maintaining the core values to empower not just myself but the people who are trying to step towards design orientation in a modernized world while still being in the rural sectors.
+My fight/vision is to promote physical activity and active lifestyles in rural environments, connecting local cultures, environments and sports through a diagnosis studio, a scientific analysis of the sports habits of the population and bringing them into a playful engagement for an active lifestyle.
+
+Finding a right balance in one’s life is a necessity and not only in terms of personal and work life but also physical and mental states. Maintaining a balanced life is becoming increasingly more important for your personal health and well-being in a fast-paced, modern world.
+
+A balanced lifestyle is how we live and reflects that the different elements of our life are in the right amount and proportion. Adopting a balanced lifestyle is of primordial importance because it has immediate and long-term effects on our health and well-being. Many recent studies clearly show that heart diseases, stroke, cancer, diabetes, and many other chronic diseases may be preventable and even reversible by adopting new perspectives and lifestyles.
+
+Knowing your body, understanding what the body needs and reflecting on them, is what I believe is the best way to lead towards a more fulfilling lifestyle. I have always been interested in track running and have found it to be my escape. Track running is what has helped me get back to myself after being out there in the fast paced, continuously evolving world. An activity that now has become a part of my lifestyle that bridges the gap between my physical and mental health. 
+
+So, my vision is to  create a more comprehensive approach towards physical wellbeing and encouraging sports participation.
+
 
 
 ###PERSONAL REFLECTIONS
