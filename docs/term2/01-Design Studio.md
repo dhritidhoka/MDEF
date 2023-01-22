@@ -10,7 +10,7 @@ I connected with the local running club in Barcelona to understand the current s
 
 I realized that the method I have been working on where I was just collecting data rather than involving myself personally, left me behind and still lost, and realized that the idea was abstract and needed more clear direction.
 
-
+[](../images/Term2/Updated%20design%20space.jpg)
 
 
 With the start of trimester II, I have narrowed down my idea and mapped out a clear direction for my project while also leaving space to allow flexibility for iterations and growth.
