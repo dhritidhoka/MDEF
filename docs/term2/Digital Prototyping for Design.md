@@ -1,4 +1,4 @@
-#DESIGING FOR PROTOTYPE
+#Digital Prototyping for Design
 
 ##Daily Reflection:
 
