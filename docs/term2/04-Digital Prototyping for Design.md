@@ -22,5 +22,5 @@ After a brief introduction to Arduino and electronics, experimented with Arduino
 
 (DESIGN TOOLS- 2D,3D and Parametric design)
 
-
+Today was an introduction to all basic concepts and then insights into different softwares for 2D modeling, 3D modeling and Parametric modeling.
 
