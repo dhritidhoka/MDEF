@@ -3,6 +3,7 @@
 ##Daily Reflection:
 
 01.02.2023:
+
 (ELECTRONICS AND CODING)
 
 After a brief introduction to Arduino and electronics, experimented with Arduino and a buzzer to create some music;
@@ -15,8 +16,11 @@ After a brief introduction to Arduino and electronics, experimented with Arduino
 
 [def]: https://youtube.com/shorts/J33XcJMvgLg?feature=share
 
+---
 
 02.02.2023:
+
 (DESIGN TOOLS- 2D,3D and Parametric design)
+
 
 
