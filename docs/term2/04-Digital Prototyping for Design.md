@@ -24,3 +24,6 @@ After a brief introduction to Arduino and electronics, experimented with Arduino
 
 Today was an introduction to all basic concepts and then insights into different softwares for 2D modeling, 3D modeling and Parametric modeling.
 
+for today's exercise- I tried building a Parametric structure using grasshoper on Rhino.
+
+![](../images/Term2/designing%20for%20prototyping.jpg)
