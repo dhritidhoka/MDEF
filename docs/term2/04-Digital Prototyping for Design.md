@@ -14,3 +14,9 @@ After a brief introduction to Arduino and electronics, experimented with Arduino
 **listen on full volume
 
 [def]: https://youtube.com/shorts/J33XcJMvgLg?feature=share
+
+
+02.02.2023:
+(DESIGN TOOLS- 2D,3D and Parametric design)
+
+
