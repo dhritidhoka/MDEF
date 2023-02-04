@@ -53,7 +53,7 @@ theme:
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Raleway
     code: Cutive Mono
   icon:
     logo: material/memory
