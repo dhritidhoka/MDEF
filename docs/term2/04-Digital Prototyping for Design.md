@@ -30,12 +30,13 @@ for today's exercise- I tried building a Parametric structure using grasshoper o
 
 ![](../images/Term2/designing%20for%20prototyping.jpg)
 
+---
 
 WEEK 2:
 
 08.03.2023:
 
-(BIDIMENSIONAL FABRICATION)
+(Bi-Dimensional Fabrication)
 
 Today was all about Laser Cutting and Vinyl Cutting. After deep isights into their histories, usages, properties and different projects; we had a demo on these 2 machines in the FabLab.
 
@@ -43,10 +44,12 @@ the exercise for today was to fabricate a small prototype with the lasercutter f
 
 I, being an Interior design student have had some expereince with lasercutting but my outputs have always been relatively simpler, but for this class, I wanted to use lasercutting to create a more complex object.
 
+
+
+![](../images/Term2/laser%20cut%20file%20prep.jpg)
+
 (laser cut still to be done)
-
-
-
+---
 
 09.03.2023:
 
