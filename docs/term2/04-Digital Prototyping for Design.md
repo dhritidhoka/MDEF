@@ -62,6 +62,20 @@ The assignment for today was to use LDR(Light Dependent Resistor) and Actuating 
 I tried building them up but somehow my Arduino was showing error to which i could not find solution on the net, but hoping to get it solved and upload the working pictures for the same.
 
 
+![](../images/Term2/inputs%20and%20outputs.jpg)
+
+---
+
+WEEK3:
+
+MICROCHALLENGE 1:
+
+Daily reflections:
+
+14.01.2023:
+
+
+
 
 
 
