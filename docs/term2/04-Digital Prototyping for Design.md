@@ -70,11 +70,6 @@ WEEK3:
 
 MICROCHALLENGE 1:
 
-Daily reflections:
-
-14.01.2023:
-
-
 
 
 
