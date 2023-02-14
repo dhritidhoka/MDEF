@@ -2,6 +2,8 @@
 
 ##Daily Reflection:
 
+WEEK 1:
+
 01.02.2023:
 
 (ELECTRONICS AND CODING)
@@ -27,3 +29,30 @@ Today was an introduction to all basic concepts and then insights into different
 for today's exercise- I tried building a Parametric structure using grasshoper on Rhino.
 
 ![](../images/Term2/designing%20for%20prototyping.jpg)
+
+
+WEEK 2:
+
+08.03.2023:
+
+(BIDIMENSIONAL FABRICATION)
+
+Today was all about Laser Cutting and Vinyl Cutting. After deep isights into their histories, usages, properties and different projects; we had a demo on these 2 machines in the FabLab.
+
+the exercise for today was to fabricate a small prototype with the lasercutter for pressfit models or to lasercut a mold for bioplastics.
+
+I, being an Interior design student have had some expereince with lasercutting but my outputs have always been relatively simpler, but for this class, I wanted to use lasercutting to create a more complex object.
+
+(laser cut still to be done)
+
+
+
+
+09.03.2023:
+
+(INPUTS and OUTPUTS)
+
+
+
+
+
