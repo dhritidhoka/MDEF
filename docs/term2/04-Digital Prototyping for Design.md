@@ -45,15 +45,17 @@ the exercise for today was to fabricate a small prototype with the lasercutter f
 I, being an Interior design student have had some expereince with lasercutting but my outputs have always been relatively simpler, but for this class, I wanted to use lasercutting to create a more complex object.
 
 
-
 ![](../images/Term2/laser%20cut%20file%20prep.jpg)
 
 (laser cut still to be done)
 ---
 
+
 09.03.2023:
 
 (INPUTS and OUTPUTS)
+
+
 
 
 
