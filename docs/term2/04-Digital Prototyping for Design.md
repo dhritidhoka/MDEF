@@ -57,12 +57,13 @@ I, being an Interior design student have had some expereince with lasercutting b
 
 It was a very informative session relating to electronics, sensors, understanding the functioning of pullupd and pulldowns, inputs and outputs.
 
-The assignment for today was to use LDR(Light Dependent Resistor) and Actuating Light.
-
-I tried building them up but somehow my Arduino was showing error to which i could not find solution on the net, but hoping to get it solved and upload the working pictures for the same.
+The assignment for today was to use LDR(Light Dependent Resistor) and Actuating Light and to test the morse code.
 
 
 ![](../images/Term2/inputs%20and%20outputs.jpg)
+
+
+[testing Morse Code](https://youtube.com/shorts/orA1_hNNjDY?feature=share)
 
 ---
 
