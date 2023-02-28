@@ -130,6 +130,7 @@ By the end of the day, we had a first design prototype ready and had already sta
 By the end of the day, we didn't have any design ready and printed, the base structure was not ready and neither was the electronics of it sorted.
 
 17.02.2023 (Friday):
+
 The first thing I started working on was getting the design cut using the lasercut machine and as that was being done, I started working on making the base structure while Antonio was completely focused on resolving the electronics part. By the beginning of the final presentation, we had the model ready and working. 
 It was a very stressful day knowing that we didn't have anything in the beginning of the day but by the afternoon we had everything as we planned.
 
@@ -141,6 +142,21 @@ WEEK4:
 22.02.2023:
 
 (NETWORKING)
+
+today was a very imformative sesiion for me, we touched based with several important topics like-
+
+-Networking for data/information flow
+
+-What are network and why is it important or needed
+
+-Protocols and networks
+
+-Protocol for communication
+
+-Wired communication/ serial communication
+
+and lastly we spent an hour or so trying connect to each others laptop via a MQTT server connected through our ESP32 wifi and try sending messages across.
+
 
 ![Networking](../images/Term2/networking.jpg)
 
@@ -157,6 +173,9 @@ The assignment for today was to 3D scan an object and then then 3D print it or t
 I chose the other way around, where i 3D printed and then 3D scanned it. By doing this way, I also got a chance to use the 3D modelling softwares again.
 
 I created a twisted column with bricks on Rhino and then 3D printed it and then scanned it to have it back as a mesh model.
+
+![File Prepartation for 3D prinitng](../images/Term2/file%20prep.jpg)
+
 
 ![3D printed](../images/Term2/3d%20printing.jpg)
 
