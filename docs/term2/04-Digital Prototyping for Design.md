@@ -134,6 +134,31 @@ The first thing I started working on was getting the design cut using the laserc
 It was a very stressful day knowing that we didn't have anything in the beginning of the day but by the afternoon we had everything as we planned.
 
 
+---
+
+WEEK4:
+
+22.02.2023:
+
+(NETWORKING)
+
+
+
+---
+
+23.02.2023:
+
+(3D FABRICATION and SCANNING )
+
+From starting with in depth 3D printing- history to its evolution and technologies, we then also looked into 3D scanning and its history, tech and amazing exmaples.
+
+The assignment for today was to 3D scan an object and then then 3D print it or the other way around.
+
+I chose the other way around, where i 3D printed and then 3D scanned it. By doing this way, I also got a chance to use the 3D modelling softwares again.
+
+I created a twisted column with bricks on Rhino and then 3D printed it and then scanned it to have it back as a mesh model.
+
+
 
 
 
