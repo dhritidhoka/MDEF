@@ -142,7 +142,7 @@ WEEK4:
 
 (NETWORKING)
 
-
+![Networking](../images/Term2/networking.jpg)
 
 ---
 
@@ -158,6 +158,7 @@ I chose the other way around, where i 3D printed and then 3D scanned it. By doin
 
 I created a twisted column with bricks on Rhino and then 3D printed it and then scanned it to have it back as a mesh model.
 
+![3D printed](../images/Term2/3d%20printing.jpg)
 
 
 
