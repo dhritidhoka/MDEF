@@ -67,7 +67,7 @@ The assignment for today was to use LDR(Light Dependent Resistor) and Actuating 
 
 ---
 
-###WEEK3:
+###WEEK3 (microchallenge1):
 
 MICROCHALLENGE 1:
 
