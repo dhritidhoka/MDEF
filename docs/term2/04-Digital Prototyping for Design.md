@@ -114,20 +114,24 @@ It was a great week for me, I learned alot from the FabLab and working with Anto
 
 DAILY REFLECTIONS:
 
+
 14.02.2023(Tuesday):
 
 The first day was just about forming and group and working together on the ideas and planning the project and its stages. Antonio and I grouped up and spent the entire day sharing ideas and exploring different project possibilities and planning the project phases.
+
 
 15.02.2023 (Wednesday):
 
 We started the day with finalizing the idea and working on the concept and developing the first design prototype while also looking into the electronics and coding aspects of the project.
 By the end of the day, we had a first design prototype ready and had already starting figuring out the sensors.
 
+
 16.02.2023 (Thursday):
 
  The agenda for today was to have the entire final outcome ready so as to spend the next day just on the repo. But it didn't go as planned. I spent alot of time making the final design while Antonio was focused completely on the electronics part.  Even after having the design ready, we didn't get a chance to use the laser cut machine until the last hour and when we did, the machine was not responding and was getting disconnected constantly. While we were also struggling with the sensors- it worked the first time perfectly but not anytime after that.
 
 By the end of the day, we didn't have any design ready and printed, the base structure was not ready and neither was the electronics of it sorted.
+
 
 17.02.2023 (Friday):
 
@@ -157,7 +161,6 @@ today was a very imformative sesiion for me, we touched based with several impor
 
 and lastly we spent an hour or so trying connect to each others laptop via a MQTT server connected through our ESP32 wifi and try sending messages across.
 
-
 ![Networking](../images/Term2/networking.jpg)
 
 ---
@@ -175,7 +178,6 @@ I chose the other way around, where i 3D printed and then 3D scanned it. By doin
 I created a twisted column with bricks on Rhino and then 3D printed it and then scanned it to have it back as a mesh model.
 
 ![File Prepartation for 3D prinitng](../images/Term2/file%20prep.jpg)
-
 
 ![3D printed](../images/Term2/3d%20printing.jpg)
 
