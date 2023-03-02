@@ -2,7 +2,7 @@
 
 ##Daily Reflection:
 
-WEEK 1:
+###WEEK 1:
 
 01.02.2023:
 
@@ -32,7 +32,7 @@ for today's exercise- I tried building a Parametric structure using grasshoper o
 
 ---
 
-WEEK 2:
+###WEEK 2:
 
 08.03.2023:
 
@@ -67,7 +67,7 @@ The assignment for today was to use LDR(Light Dependent Resistor) and Actuating 
 
 ---
 
-WEEK3:
+###WEEK3:
 
 MICROCHALLENGE 1:
 
@@ -137,7 +137,7 @@ It was a very stressful day knowing that we didn't have anything in the beginnin
 
 ---
 
-WEEK4:
+###WEEK4:
 
 22.02.2023:
 
@@ -164,7 +164,7 @@ and lastly we spent an hour or so trying connect to each others laptop via a MQT
 
 23.02.2023:
 
-(3D FABRICATION and SCANNING )
+(3D FABRICATION and SCANNING)
 
 From starting with in depth 3D printing- history to its evolution and technologies, we then also looked into 3D scanning and its history, tech and amazing exmaples.
 
@@ -180,6 +180,23 @@ I created a twisted column with bricks on Rhino and then 3D printed it and then 
 ![3D printed](../images/Term2/3d%20printing.jpg)
 
 
+---
+
+###WEEK5:
+
+01.03.2023:
+
+(INTERFACES-Machine vs Machine)
+
+Interfaces- machine vs machine was a very interactive and hands on session where we strated with a simple blink and increasing the complexity with every step leading until having LED controlled with sensors using MQTT broker.
+
+the documentation for the same is as below:
+
+[INTERFACES](https://www.canva.com/design/DAFcCdC47qA/view)
 
 
+
+02.03.2023:
+
+(CNC-Computer Numerical Control)
 
