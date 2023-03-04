@@ -28,7 +28,7 @@ Furthermore, design can enable the development of alternative systems of extract
 
 Making sense and meaning of design involves understanding the purpose and context of the design, as well as the values and principles that inform it. 
 
-![Design Thinking](../images/term2/making%20sense%20and%20meaning.jpg)
+![Design Thinking](../images/Term2/making%20sense%20and%20meaning.jpg)
 
 Understanding the problem or opportunity: Begin by understanding the problem or opportunity that the design is meant to address. This can involve conducting research, engaging with stakeholders, and gathering information about the context and environment in which the design will be implemented.
 Identify the values and principles: Design is informed by a set of values and principles, which can include sustainability, social justice, user-centeredness, and others. Identify the values and principles that inform the design, and consider how they are reflected in the design process and outcome.
@@ -91,3 +91,6 @@ Speculative design: Speculative design is an approach that involves imagining po
 
 To end it with a few words- the role of design in shaping the future and creating more beneficial societies. There are different design practices that can be used to design for the future, such as human-centered design, sustainable design, service design, circular design, co-design, and speculative design. The importance of collaboration and co-creation with stakeholders and users in the design process, as well as the need to consider emerging trends, societal shifts, and the evolving needs and desires of users. Overall, designing for the future involves a forward-thinking and strategic approach that takes into account the challenges and opportunities of the future and creates solutions that are adaptable, sustainable, and responsive to the needs of society.
 
+
+
+[def]: ../images/term2/making%20sense%20and%20meaning.jpg
