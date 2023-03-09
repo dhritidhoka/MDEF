@@ -26,3 +26,6 @@ Making materials during the lecture series:
 Exploring new Materials:
 
 [Remixing Material Final Presentation](https://docs.google.com/presentation/d/1keYlu8yUO7T16X5iwzkFBpeWxS9YIwIQEn_LoPX0DVc/edit?usp=sharing)
+
+
+<iframe src="https://docs.google.com/presentation/d/1keYlu8yUO7T16X5iwzkFBpeWxS9YIwIQEn_LoPX0DVc/edit?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
