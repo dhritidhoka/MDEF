@@ -11,7 +11,7 @@
 After a brief introduction to Arduino and electronics, experimented with Arduino and a buzzer to create some music;
 
 [EXPERIMENT 1- A tune](https://youtube.com/shorts/0zyrE2FXnRI?feature=share)
-<iframe src="https://youtube.com/shorts/0zyrE2FXnRI?feature=share" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 [EXPERIMENT 2- Game of Thrones tune][def]
@@ -19,7 +19,7 @@ After a brief introduction to Arduino and electronics, experimented with Arduino
 **listen on full volume
 
 [def]: https://youtube.com/shorts/J33XcJMvgLg?feature=share
-<iframe src="https://youtube.com/shorts/J33XcJMvgLg?feature=share" width="640" height="480" allow="autoplay"></iframe>
+
 ---
 
 02.02.2023:
