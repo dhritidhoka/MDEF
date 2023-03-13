@@ -25,6 +25,8 @@ To develop a deep understanding of user needs, a commitment to innovation and su
 
 MISSION STATEMENT:
 
+As a designer with an interest in physical health and sports(athletics), I am looking into ways of designing solutions which not only track your performance but also make it accessible to the user in a more interactive approach. 
+
 
 
 
