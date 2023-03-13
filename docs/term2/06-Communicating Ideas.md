@@ -30,7 +30,7 @@ As a designer with an interest in physical health and sports(athletics), I am lo
 
 PERSONAL BRAND KIT:
 
-![](../images/Term2/personal%20brand.jpg)
+![](../images/Term2/brand%20kit.jpg)
 
 
 Brand values:
