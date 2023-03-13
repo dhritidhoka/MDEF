@@ -44,6 +44,8 @@ Minimal Viable Message:
 
 As a designer with an interest in physical health and sports(athletics), I am looking into ways of designing solutions which not only track your performance but also make it accessible to the user in a more interactive approach. 
 
+---
 
+FINAL SUBMISSION:
 
-
+<iframe width="560" height="315" src="https://docs.google.com/presentation/d/1jRhQjH0RnZHDu5jl9eZGWCP7WDdQCC0HuShKD3ohDN8/edit?usp=sharing" allowfullscreen></iframe>
