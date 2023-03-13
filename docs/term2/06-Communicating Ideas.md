@@ -36,9 +36,7 @@ PERSONAL BRAND KIT:
 Brand values:
 
 -Honest design
-
 -Promote health
-
 -Know your body
 
 
