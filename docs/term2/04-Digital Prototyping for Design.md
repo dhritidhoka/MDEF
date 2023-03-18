@@ -203,3 +203,9 @@ the documentation for the same is as below:
 
 (CNC-Computer Numerical Control)
 
+A very detailed and informative session about CNC and how to use the CNC machine, how to create a file for the same. 
+
+Assignment was to create a file for CNC and get it developed, and for this assignment, I used it for developing a wooden base structure which we would be needing for the upcoming Microchallenge in the next week.
+
+I modelled the design I wanted and with the help of Edu - i  created the file for CNC and then with the help of Adai, used the CNC machine to have my object ready.
+
