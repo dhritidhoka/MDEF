@@ -209,3 +209,18 @@ Assignment was to create a file for CNC and get it developed, and for this assig
 
 I modelled the design I wanted and with the help of Edu - i  created the file for CNC and then with the help of Adai, used the CNC machine to have my object ready.
 
+![CNC](../images/Term2/cnc%20post.jpg)
+
+---
+
+###WEEK6:
+
+MICROCHALLENGE 2:
+
+Porject:
+
+[Our Repo Link](https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md)
+
+My contributions:
+
+My Learnings:
