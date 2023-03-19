@@ -217,10 +217,40 @@ I modelled the design I wanted and with the help of Edu - i  created the file fo
 
 MICROCHALLENGE 2:
 
-Porject:
+Project:
 
-[Our Repo Link](https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md)
+For the second Microchallenge, Antonio and I continued with the idea of bio-sensing and further developing our first prototype which we made during the microchallege I.
+Bio Sensing -HRV( Heart Rate Variability) is where the amount of time between your heartbeats fluctuates slightly. These variations are very small, adding or subtracting a fraction of a second between beats. It changes every second depending on what you’re doing, how you’re feeling.
+
+We created a device that when connected to a person, reads the HRV via the ECG sensors and translates that information into different colors based on the Aura color chart that highlights every color with a respective energy and being displayed on the sculpture which when seen from different angles, represents the orb shape.
+
+Our aim for this challenge week was to develop this in a more portable way and to have easy accessibility to the user by connecting it to an online network as well as having a physical outcome. 
+Using this as an excuse to plant the seed of interest amongst the people about HRV and its importance.
+
 
 My contributions:
 
-My Learnings:
+Just as the previous challenge week, I focused on developing the physical output- the sculpture and Antonio focused on the electronics aspect- the sensors and network of the project.
+
+By the start of this challenge week, we had learned new fabrication processes and we wanted to implement them in our projects. Dividing the sculpture in 3 parts- the acrylic frames, the support for the frames and the base box for the electronics.
+
+For the acrylic frames- we played around alot with new designs and forms ranging from simple to complex sacred geometries but eventually we ended up with the same design that we had earlier used but developing it in a more appealing way and achieving the look we wanted using laser cutting.
+
+The next part was the support for the acrylic frames, we designed a support that would direct the light/LED directly on the acrylic frame without having any interference with the adjacent frame. We 3D printed the support. We had to 3D print multiple times as we had trouble with either the tolerance of the material thickness or having the wrong calibrations for the printer, but we successfully managed to have support for the acrylic frames. 
+
+The last part was the base box for placing the electronics and the 3D printed support with the frames. We used the CNC machine for this part as it was a great tool and with CNC we could achieve alot more aesthetically pleasing yet a minimal design.    
+
+
+My learnings:
+
+Even though we were taking our previous prototype to the next phase, we still had alot of challenges and difficulties. With my part being to develop the sculpture, I used 3 different fabrication processes- laser cutting, 3D printing and CNC. Having to use these 3 fabrication processes, it was a great way to play around and learn about these methods and dealing with different issues in all three, it did give me insights into different possibilities of applications.
+
+Even though I am not well versed in coding and electronics, I did get  great insights in them even just by looking at and trying to understand what Antonio was working on and getting some know-how about it.
+It was a very challenging week but in the end I did learn alot about different fabrication methods as well as coding and electronics.
+
+
+[REPO LINK FOR OUR PROJECT] (https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md) 
+
+
+
+
