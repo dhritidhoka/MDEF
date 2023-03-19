@@ -73,7 +73,6 @@ The assignment for today was to use LDR(Light Dependent Resistor) and Actuating 
 
 MICROCHALLENGE 1:
 
-
 Project:
 
 
@@ -86,7 +85,7 @@ Using HRV to read you’re body and understand it’s state and presenting it in
 We created a device that when connected to a person, reads the HRV via the ECG sensors and translates that information into different color based on the Aura color chart that highlights every color with a respective energy and being displayed on the sculpture which when seen from different angles, represents the orb shape.
 
 
-[Repo link for our project] (https://github.com/dhritidhoka/Microchallenge1.git)
+[Repo link for our project](https://github.com/dhritidhoka/Microchallenge1.git)
 
 
 My Contribution towards this project:
@@ -213,7 +212,7 @@ I modelled the design I wanted and with the help of Edu - i  created the file fo
 
 ---
 
-###WEEK6:
+###WEEK6 (microchallenge2):
 
 MICROCHALLENGE 2:
 
@@ -249,8 +248,10 @@ Even though I am not well versed in coding and electronics, I did get  great ins
 It was a very challenging week but in the end I did learn alot about different fabrication methods as well as coding and electronics.
 
 
-[REPO LINK FOR OUR PROJECT] (https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md) 
+[REPO LINK FOR OUR PROJECT](https://github.com/dhritidhoka/Microchallenge-II/blob/main/README.md) 
 
+
+---
 
 
 
