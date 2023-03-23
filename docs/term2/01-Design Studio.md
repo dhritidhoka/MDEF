@@ -2,7 +2,7 @@
 
 ##MY DESIGN SPACE
 
-(Updated version) 
+(Updated version- 23.01.2023) 
 
 My design space has developed through many stages of ideation with constantly evolving thought processes. In term I, my design space focused on promoting physical activity and active lifestyles in rural environments, connecting local cultures, environments and sports through a diagnosis studio, a scientific analysis of the sports habits of the population and bringing them into a playful engagement for an active lifestyle.
 
