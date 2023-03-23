@@ -48,6 +48,7 @@ I, being an Interior design student have had some expereince with lasercutting b
 
 
 
+![](../images/Term2/laser%20cut%20file.jpg)
 
 
 ---
