@@ -2,7 +2,7 @@
 
 ##Daily reflections:
 
-###Mushroom Model:
+###MUSHROOM MODEL:
 
 For this exercise, we chose the topic of FERTILIZER PROCESS.
 We started with the making process and then moved to knowledge and values and ended up at power.
