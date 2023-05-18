@@ -4,7 +4,7 @@
 
 04.05.23 
 
-Session with Guilliem:
+Session with Guillem:
 
 A key insight that arose from the session was the understanding that protocols and platforms extend beyond mere engineering artifacts. They are social constructs that facilitate communication and collaboration among individuals. These tools shape our interactions and decision-making processes.
 
@@ -18,4 +18,21 @@ Collective intelligence is another area of focus. We transitioned from a simple 
 
 10.05.23- 12.05.23
 
-Session with Mar:
+Sessions with Mar:
+
+
+Blockchain is a decentralized digital ledger that records transactions across multiple computers or nodes. It ensures transparency, security, and immutability by creating a chain of blocks that contain transaction data. Each block is linked to the previous one through cryptographic hashes, forming a tamper-resistant and distributed system.
+
+Cryptocurrency is a digital or virtual currency that uses cryptography for security and operates independently of a central bank. It leverages blockchain technology to enable secure and transparent transactions. Examples of popular cryptocurrencies include Bitcoin, Ethereum, and Litecoin.
+
+A wallet in the context of cryptocurrency refers to a digital tool or software that allows users to store, manage, and interact with their cryptocurrencies. It stores the private keys needed to access and authorize transactions on the blockchain. Wallets can be software-based (desktop, mobile, or web wallets) or hardware-based (physical devices like Ledger or Trezor).
+
+Temple Wallet is a specific type of cryptocurrency wallet designed specifically for Tezos (XTZ), which is a blockchain platform that supports smart contracts and decentralized applications (DApps). Temple Wallet provides users with a secure and user-friendly interface to manage their Tezos funds and interact with Tezos-based applications.
+
+(we created our own temple wallets) 
+
+
+NFT stands for Non-Fungible Token. It is a type of digital asset that represents ownership or proof of authenticity for a unique item or piece of content, typically on a blockchain. Unlike cryptocurrencies, which are fungible (interchangeable with each other), NFTs are distinct and cannot be exchanged on a one-to-one basis. They are often used to represent digital artworks, collectibles, virtual real estate, or other unique digital assets.
+
+NFT markets are online platforms or marketplaces where NFTs are bought, sold, and traded. These platforms provide a space for artists, creators, and collectors to showcase and trade their NFTs. Some popular NFT marketplaces include OpenSea, Rarible, SuperRare, and NBA Top Shot. These markets have gained significant attention and popularity in recent years, driving the growth of the NFT ecosystem.
+
