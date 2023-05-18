@@ -49,3 +49,11 @@ And the last was where we connected a Led strip light and connected it to  blend
 
  ![](../images/Term3/blender%20as%20interface.jpg)
 
+ ---
+
+ 16.05.23- 19.05.23
+
+ ###MicroChallenge 3
+
+ 
+
