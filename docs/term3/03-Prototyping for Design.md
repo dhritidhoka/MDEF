@@ -62,7 +62,7 @@ And the last was where we connected a Led strip light and connected it to  blend
  
 ###MicroChallenge 3:
 
-I could not take part in the Microchallenge 3 week as I was travelling but will compensate for it with other challenege!
+I could not take part in the Microchallenge 3 week as I was travelling but will compensate for it with other equivalent work!
 
 
 
