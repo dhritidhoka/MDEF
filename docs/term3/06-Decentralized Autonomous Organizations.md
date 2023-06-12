@@ -41,4 +41,4 @@ NFT markets are online platforms or marketplaces where NFTs are bought, sold, an
 The project can range from a NFT collection, to a white paper or presentation of an idea for a project using web3 (like a DAO or new cryptocurrency or any other idea that connects to the topics cover in the course).
 
 
-[Web3.0](https://docs.google.com/presentation/d/18VixHvlcsFFaN-tWnM4pBRLL3NX6OSf6m737kPGrYvE/edit?usp=sharing)
+[NFT](https://docs.google.com/presentation/d/18VixHvlcsFFaN-tWnM4pBRLL3NX6OSf6m737kPGrYvE/edit?usp=sharing)
