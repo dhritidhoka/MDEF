@@ -13,6 +13,9 @@
 
  ![](../images/Term3/robot.jpg)
 
+ I tried using the robotic arm library and using it on grasshopper- here are some of the views of it:
+
+
 --- 
 
 20.04.23
@@ -20,6 +23,9 @@
 ###Blender:
  A software that I have some knowledge of but this was a very productive lecture for me, it highlighted the importance of blender and the different possible fields it can be used for. Victor also shed light on how essential it is to select a tool that allows for easy learning while also providing the freedom to accomplish desired outcomes. Acquiring proficiency with tools such as Blender provides the user with the autonomy to design with greater flexibility. Modifying the tool itsself should be a normal part of the creative process to allow a wider range of outputs. Blender as known to me before was a very direct tool but after this lecture, I was amazed to see the endless opportunity it porvides it knowing the right paths for it.
 
+I followed a youtube video to create a donut- [youtube reference video link](https://youtu.be/K9szzrOfslU)
+
+ ![](../images/Term2/blender.jpg)
 
 
 ---
