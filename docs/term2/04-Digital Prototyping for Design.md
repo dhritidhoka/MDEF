@@ -44,7 +44,7 @@ Today was all about Laser Cutting and Vinyl Cutting. After deep isights into the
 
 the exercise for today was to fabricate a small prototype with the lasercutter for pressfit models or to lasercut a mold for bioplastics.
 
-I, being an Interior design student have had some expereince with lasercutting but my outputs have always been relatively simpler, but for this class, I wanted to use lasercutting to create a more complex object.
+I, being an Interior design student have had some expereince with lasercutting but my outputs have always been relatively simpler, but for this class, I wanted to use lasercutting machine for the the acyrlic frames which were embosssed with different desnisty of rastering.
 
 
 
