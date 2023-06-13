@@ -13,8 +13,6 @@
 
  ![](../images/Term3/robot.jpg)
 
- I tried using the robotic arm library and using it on grasshopper- here are some of the views of it:
-
 
 --- 
 
